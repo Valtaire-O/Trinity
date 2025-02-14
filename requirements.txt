@@ -1,0 +1,26 @@
+SQLAlchemy==1.4.47
+scrapfly-sdk==0.8.8
+scikit-learn==1.4.2
+requests==2.31.0
+google-cloud-secret-manager==2.16.3
+google-api-core==2.11.1
+google-auth==2.26.2
+beautifulsoup4==4.12.2
+PyMySQL==1.1.0
+python-dateutil==2.8.2
+regex==2023.8.8
+textdistance==4.6.1
+tenacity==8.2.2
+supabase==1.0.3
+seaborn==0.13.2
+dateparser==1.1.8
+cloud-sql-python-connector==1.4.0
+matplotlib==3.8.0
+pandas==2.0.3
+numpy==1.25.2
+w3lib==2.1.2
+
+# cloud run
+Flask==3.0.3
+gunicorn==22.0.0
+Werkzeug==3.0.3
